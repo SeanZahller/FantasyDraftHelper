@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TitledPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<TitledPane animated="false" contentDisplay="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="595.0" prefWidth="777.0" text="Basement Boyz Fantasy League Draft 2022" textAlignment="CENTER" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.drafthelper.FantasyDraftHelperController">
+  <content>
+    <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" >
+         <children>
+            <Separator layoutX="151.0" orientation="VERTICAL" prefHeight="542.0" prefWidth="31.0" />
+            <Label layoutX="23.0" layoutY="108.0" text="Current Pick" underline="true">
+               <font>
+                  <Font name="System Bold Italic" size="22.0" />
+               </font>
+            </Label>
+            <Label layoutX="55.0" layoutY="140.0" prefHeight="41.0" prefWidth="55.0" text="NAME" textAlignment="JUSTIFY">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="44.0" layoutY="200.0" text="Next Pick" underline="true">
+               <font>
+                  <Font name="System Bold Italic" size="19.0" />
+               </font>
+            </Label>
+            <Label layoutX="60.0" layoutY="228.0" prefHeight="41.0" prefWidth="55.0" text="NAME" textAlignment="JUSTIFY">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="43.0" layoutY="14.0" text=":60">
+               <font>
+                  <Font name="System Bold" size="56.0" />
+               </font>
+            </Label>
+            <Button layoutX="18.0" layoutY="290.0" mnemonicParsing="false" text="Next Pick">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Button>
+            <TableView editable="true" layoutX="164.0" layoutY="-1.0" prefHeight="542.0" prefWidth="609.0" fx:id = "table">
+              <columns>
+                <TableColumn prefWidth="96.0" text="Rank" />
+                <TableColumn prefWidth="265.0" text="Player" />
+                  <TableColumn prefWidth="99.0" text="Team" />
+                  <TableColumn prefWidth="147.0" text="Position" />
+              </columns>
+            </TableView>
+            <Button layoutX="21.0" layoutY="409.0" mnemonicParsing="false" text="Remove">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Button>
+            <Button layoutX="21.0" layoutY="473.0" mnemonicParsing="false" text="Start Timer">
+               <font>
+                  <Font size="19.0" />
+               </font>
+            </Button>
+         </children></AnchorPane>
+  </content>
+   <font>
+      <Font name="Georgia Bold" size="31.0" />
+   </font>
+</TitledPane>

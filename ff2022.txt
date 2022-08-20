@@ -1,0 +1,384 @@
+1: Jonathan Taylor : RB:IND 
+2: Derrick Henry : RB:TEN 
+3: Christian McCaffrey : RB:CAR 
+4: Dalvin Cook : RB:MIN 
+5: Austin Ekeler : RB:LAC 
+6: Joe Mixon : RB:CIN 
+7: Najee Harris : RB:PIT 
+8: Nick Chubb : RB:CLE 
+9: Justin Jefferson : WR:MIN 
+10: Cooper Kupp : WR:LAR 
+11: Ja'Marr Chase : WR:CIN 
+12: Travis Kelce : TE:KC 
+13: Mark Andrews : TE:BAL 
+14: D'Andre Swift : RB:DET 
+15: Stefon Diggs : WR:BUF 
+16: Davante Adams : WR:LV 
+17: Alvin Kamara : RB:NO 
+18: Aaron Jones : RB:GB 
+19: Deebo Samuel : WR:SF 
+20: CeeDee Lamb : WR:DAL 
+21: Saquon Barkley : RB:NYG 
+22: Javonte Williams : RB:DEN 
+23: Mike Evans : WR:TB 
+24: Leonard Fournette : RB:TB 
+25: Tyreek Hill : WR:MIA 
+26: James Conner : RB:ARI 
+27: AJ Brown : WR:PHI 
+28: Ezekiel Elliott : RB:DAL 
+29: Kyle Pitts : TE:ATL 
+30: Tee Higgins : WR:CIN 
+31: Josh Allen : QB:BUF 
+32: Keenan Allen : WR:LAC 
+33: Michael Pittman Jr : WR:IND 
+34: DJ Moore : WR:CAR 
+35: Cam Akers : RB:LAR 
+36: Mike Williams : WR:LAC 
+37: Courtland Sutton : WR:DEN 
+38: Breece Hall : RB:NYJ 
+39: David Montgomery : RB:CHI 
+40: Terry McLaurin : WR:WAS 
+41: George Kittle : TE:SF 
+42: Elijah Mitchell : RB:SF 
+43: Diontae Johnson : WR:PIT 
+44: Justin Herbert : QB:LAC 
+45: DK Metcalf : WR:SEA 
+46: Jaylen Waddle : WR:MIA 
+47: JK Dobbins : RB:BAL 
+48: Antonio Gibson : RB:WAS 
+49: Brandin Cooks : WR:HOU 
+50: Travis Etienne Jr : RB:JAC 
+51: Darren Waller : TE:LV 
+52: Patrick Mahomes II : QB:KC 
+53: Lamar Jackson : QB:BAL 
+54: Gabriel Davis : WR:BUF 
+55: Marquise Brown : WR:ARI 
+56: Allen Robinson II : WR:LAR 
+57: Josh Jacobs : RB:LV 
+58: Jerry Jeudy : WR:DEN 
+59: Amari Cooper : WR:CLE 
+60: AJ Dillon : RB:GB 
+61: Darnell Mooney : WR:CHI 
+62: Kyler Murray : QB:ARI 
+63: Damien Harris : RB:NE 
+64: Rashod Bateman : WR:BAL 
+65: Dalton Schultz : TE:DAL 
+66: Elijah Moore : WR:NYJ 
+67: Jalen Hurts : QB:PHI 
+68: Chris Godwin : WR:TB 
+69: Miles Sanders : RB:PHI 
+70: Michael Thomas : WR:NO 
+71: Dallas Goedert : TE:PHI 
+72: Adam Thielen : WR:MIN 
+73: Joe Burrow : QB:CIN 
+74: TJ Hockenson : TE:DET 
+75: JuJu Smith Schuster : WR:KC 
+76: Amon Ra St Brown : WR:DET 
+77: Clyde Edwards Helaire : RB:KC 
+78: Rashaad Penny : RB:SEA 
+79: Tom Brady : QB:TB 
+80: DeVonta Smith : WR:PHI 
+81: Brandon Aiyuk : WR:SF 
+82: Kareem Hunt : RB:CLE 
+83: Russell Wilson : QB:DEN 
+84: Dak Prescott : QB:DAL 
+85: Devin Singletary : RB:BUF 
+86: Chase Edmonds : RB:MIA 
+87: Tony Pollard : RB:DAL 
+88: Tyler Lockett : WR:SEA 
+89: Allen Lazard : WR:GB 
+90: Dawson Knox : TE:BUF 
+91: Melvin Gordon : III RB:DEN 
+92: Rhamondre Stevenson : RB:NE 
+93: Drake London : WR:ATL 
+94: Ken Walker III : RB:SEA 
+95: DeAndre Hopkins : WR:ARI 
+96: Zach Ertz : TE:ARI 
+97: Trey Lance : QB:SF 
+98: Christian Kirk : WR:JAC 
+99: Cordarrelle Patterson : RB:ATL 
+100: Hunter Renfrow : WR:LV 
+101: Matthew Stafford : QB:LAR 
+102: Aaron Rodgers : QB:GB 
+103: Robert Woods : WR:TEN 
+104: Treylon Burks : WR:TEN 
+105: Kadarius Toney : WR:NYG 
+106: Chase Claypool : WR:PIT 
+107: Kirk Cousins : QB:MIN 
+108: Hunter Henry : TE:NE 
+109: Derek Carr : QB:LV 
+110: Chris Olave : WR:NO 
+111: James Cook : RB:BUF 
+112: Darrell Henderson Jr : RB:LAR 
+113: James Robinson : RB:JAC 
+114: Pat Freiermuth : TE:PIT 
+115: Michael Carter : RB:NYJ 
+116: Cole Kmet : TE:CHI 
+117: Garrett Wilson : WR:NYJ 
+118: Justin Fields : QB:CHI 
+119: Tua Tagovailoa : QB:MIA 
+120: Mike Gesicki : TE:MIA 
+121: Skyy Moore : WR:KC 
+122: Marquez Valdes Scantling : WR:KC 
+123: Alexander Mattison : RB:MIN 
+124: Ronald Jones II : RB:KC 
+125: Russell Gage : WR:TB 
+126: Tyler Boyd : WR:CIN 
+127: Trevor Lawrence : QB:JAC 
+128: Dameon Pierce : RB:HOU 
+129: Isaiah Spiller : RB:LAC 
+130: Raheem Mostert : RB:MIA 
+131: Noah Fant : TE:SEA 
+132: Kenny Golladay : WR:NYG 
+133: Jarvis Landry : WR:NO 
+134: Michael Gallup : WR:DAL 
+135: Irv Smith Jr : TE:MIN 
+136: DeVante Parker : WR:NE 
+137: Jakobi Meyers : WR:NE 
+138: Jameis Winston : QB:NO 
+139: Albert Okwuegbunam : TE:DEN 
+140: Kenneth Gainwell : RB:PHI 
+141: Jamaal Williams : RB:DET 
+142: Robert Tonyan : TE:GB 
+143: Tyler Higbee : TE:LAR 
+144: Matt Ryan : QB:IND 
+145: DJ Chark Jr : WR:DET 
+146: David Njoku : TE:CLE 
+147: Gerald Everett : TE:LAC 
+148: Buffalo Bills : DST:BUF 
+149: Nyheim Hines : RB:IND 
+150: Gus Edwards : RB:BAL 
+151: Ryan Tannehill : QB:TEN 
+152: Tampa Bay Buccaneers : DST:TB 
+153: Khalil Herbert : RB:CHI 
+154: Tyler Allgeier : RB:ATL 
+155: Rondale Moore : WR:ARI 
+156: Marlon Mack : RB:HOU 
+157: Evan Engram : TE:JAC 
+158: Mac Jones : QB:NE 
+159: Daniel Jones : QB:NYG 
+160: Julio Jones : WR:TB 
+161: San Francisco 49ers : DST:SF 
+162: Sony Michel : RB:MIA 
+163: Logan Thomas : TE:WAS 
+164: JD McKissic : RB:WAS 
+165: Corey Davis : WR:NYJ 
+166: Rachaad White : RB:TB 
+167: Indianapolis : Colts DST:IND 
+168: Jahan Dotson : WR:WAS 
+169: Zach Wilson : QB:NYJ 
+170: Austin Hooper : TE:TEN 
+171: Mecole Hardman : WR:KC 
+172: Carson Wentz : QB:WAS 
+173: Justin Tucker : K:BAL 
+174: Nico Collins : WR:HOU 
+175: Van Jefferson : WR:LAR 
+176: Denver Broncos : DST:DEN 
+177: Mark Ingram II : RB:NO 
+178: New England Patriots : DST:NE 
+179: D'Onta Foreman : RB:CAR 
+180: Darrel Williams : RB:ARI 
+181: New Orleans Saints : DST:NO 
+182: Jameson Williams : WR:DET 
+183: Los Angeles Rams : DST:LAR 
+184: Robbie Anderson : WR:CAR 
+185: Jared Goff : QB:DET 
+186: Tyler Bass : K:BUF 
+187: George Pickens : WR:PIT 
+188: Marvin Jones Jr : WR:JAC 
+189: Hayden Hurst : TE:CIN 
+190: Brian Robinson Jr : RB:WAS 
+191: Christian Watson : WR:GB 
+192: KJ Osborn : WR:MIN 
+193: Matt Gay : K:LAR 
+194: Joshua Palmer : WR:LAC 
+195: Dallas Cowboys : DST:DAL 
+196: Deshaun Watson : QB:CLE 
+197: Baker Mayfield : QB:CAR 
+198: Kendrick Bourne : WR:NE 
+199: Davis Mills : QB:HOU 
+200: Daniel Carlson : K:LV 
+201: Los Angeles Chargers : DST:LAC 
+202: Evan McPherson : K:CIN 
+203: Miami Dolphins : DST:MIA 
+204: Donovan Peoples Jones : WR:CLE 
+205: Zamir White : RB:LV 
+206: Green Bay Packers : DST:GB 
+207: Jamison Crowder : WR:BUF 
+208: Boston Scott : RB:PHI 
+209: Kansas City Chiefs : DST:KC 
+210: KJ Hamler : WR:DEN 
+211: Jalen Tolbert : WR:DAL 
+212: Kenyan Drake : RB:LV 
+213: Ryan Succop : K:TB 
+214: Curtis Samuel : WR:WAS 
+215: Parris Campbell : WR:IND 
+216: Cleveland Browns : DST:CLE 
+217: Matt Prater : K:ARI 
+218: Harrison Butker : K:KC 
+219: AJ Green : WR:ARI 
+220: Baltimore Ravens : DST:BAL 
+221: Philadelphia Eagles : DST:PHI 
+222: Wan'Dale Robinson : WR:NYG 
+223: Pittsburgh Steelers : DST:PIT 
+224: Brevin Jordan : TE:HOU 
+225: Rodrigo Blankenship : K:IND 
+226: Chuba Hubbard : RB:CAR 
+227: David Bell : WR:CLE 
+228: Younghoe Koo : K:ATL 
+229: Marcus Mariota : QB:ATL 
+230: Jason Sanders : K:MIA 
+231: Tyrion Davis Price : RB:SF 
+232: Sterling Shepard : WR:NYG 
+233: Alec Pierce : WR:IND 
+234: Jonnu Smith : TE:NE 
+235: Laviska Shenault Jr : WR:JAC 
+236: Brandon McManus : K:DEN 
+237: Nick Folk : K:NE 
+238: Trey Sermon : RB:SF 
+239: Arizona Cardinals : DST:ARI 
+240: D'Ernest Johnson : RB:CLE 
+241: Samaje Perine : RB:CIN 
+242: Damien Williams : RB:ATL 
+243: Adam Trautman : TE:NO 
+244: Robbie Gould : K:SF 
+245: Jake Elliott : K:PHI 
+246: Jeff Wilson Jr : RB:SF 
+247: Isaiah McKenzie : WR:BUF 
+248: Mo Alie Cox : TE:IND 
+249: Terrace Marshall Jr : WR:CAR 
+250: Mitch Trubisky : QB:PIT 
+251: Byron Pringle : WR:CHI 
+252: Cincinnati Bengals : DST:CIN 
+253: Dustin Hopkins : K:LAC 
+254: Tennessee Titans : DST:TEN 
+255: Rex Burkhead : RB:HOU 
+256: Myles Gaskin : RB:MIA 
+257: Dan Arnold : TE:JAC 
+258: Jerick McKinnon : RB:KC 
+259: Carolina Panthers : DST:CAR 
+260: Greg Zuerlein : K:NYJ 
+261: Braxton Berrios : WR:NYJ 
+262: William Fuller V : WR:FA 
+263: Bryan Edwards : WR:ATL 
+264: Chris Boswell : K:PIT 
+265: Minnesota Vikings : DST:MIN 
+266: Zack Moss : RB:BUF 
+267: Zay Jones : WR:JAC 
+268: Wil Lutz : K:NO 
+269: Randall Cobb : WR:GB 
+270: Romeo Doubs : WR:GB 
+271: CJ Uzomah : TE:NYJ 
+272: Mike Davis : RB:BAL 
+273: Marquez Callaway : WR:NO 
+274: Sammy Watkins : WR:GB 
+275: Odell Beckham Jr : WR:FA 
+276: Matt Breida : RB:NYG 
+277: Chicago Bears : DST:CHI 
+278: Mason Crosby : K:GB 
+279: Cameron Brate : TE:TB 
+280: Cedrick Wilson Jr : WR:MIA 
+281: Hassan Haskins : RB:TEN 
+282: Eno Benjamin : RB:ARI 
+283: Phillip Lindsay : RB:IND 
+284: Washington Commanders : DST:WAS 
+285: Jason Myers : K:SEA 
+286: OJ Howard : TE:BUF 
+287: Nelson Agholor : WR:NE 
+288: Graham Gano : K:NYG 
+289: Trey McBride : TE:ARI 
+290: Ke'Shawn Vaughn : RB:TB 
+291: Greg Joseph : K:MIN 
+292: New York Giants : DST:NYG 
+293: Cairo Santos : K:CHI 
+294: Seattle Seahawks : DST:SEA 
+295: New York Jets : DST:NYJ 
+296: Randy Bullock : K:TEN 
+297: Isiah Pacheco : RB:KC 
+298: Tre'Quan Smith : WR:NO 
+299: Ka'imi Fairbairn : K:HOU 
+300: Kyle Rudolph : TE:TB 
+301: Josh Reynolds : WR:DET 
+302: Drew Lock : QB:SEA 
+303: Kenny Pickett : QB:PIT 
+304: Jimmy Garoppolo : QB:SF 
+305: Quez Watkins : WR:PHI 
+306: Darius Slayton : WR:NYG 
+307: Jacksonville Jaguars : DST:JAC 
+308: Pierre Strong Jr : RB:NE 
+309: Chris Evans : RB:CIN 
+310: Kyren Williams : RB:LAR 
+311: Dyami Brown : WR:WAS 
+312: Emmanuel Sanders : WR:FA 
+313: Justin Jackson : RB:DET 
+314: Velus Jones Jr : WR:CHI 
+315: Ty Johnson : RB:NYJ 
+316: Joshua Kelley : RB:LAC 
+317: Jalen Reagor : WR:PHI 
+318: Quintez Cephus : WR:DET 
+319: Greg Dulcich : TE:DEN 
+320: Geno Smith : QB:SEA 
+321: Devin Duvernay : WR:BAL 
+322: Darrynton Evans : RB:CHI 
+323: Nick Westbrook Ikhine : WR:TEN 
+324: Tyler Badie : RB:BAL 
+325: Duke Johnson Jr : RB:BUF 
+326: Jacoby Brissett : QB:CLE 
+327: Harrison Bryant : TE:CLE 
+328: Giovani Bernard : RB:TB 
+329: Tyler Conklin : TE:NYJ 
+330: Chase McLaughlin : K:FA 
+331: Cole Beasley : WR:FA 
+332: Tevin Coleman : RB:NYJ 
+333: Daniel Bellinger : TE:NYG 
+334: Josh Lambo : K:FA 
+335: Jared Cook : TE:FA 
+336: Snoop Conner : RB:JAC 
+337: Sam Darnold : QB:CAR 
+338: Ricky Seals Jones : TE:NYG 
+339: Salvon Ahmed : RB:MIA 
+340: Tommy Tremble : TE:CAR 
+341: Donald Parham Jr : TE:LAC 
+342: Tyquan Thornton : WR:NE 
+343: Jaret Patterson : RB:WAS 
+344: Jerome Ford : RB:CLE 
+345: Anthony Firkser : TE:ATL 
+346: Desmond Ridder : QB:ATL 
+347: David Johnson : RB:FA 
+348: Jalen Guyton : WR:LAC 
+349: James Proche II : WR:BAL 
+350: Dontrell Hilliard : RB:TEN 
+1D: Darius Leonard : IND : IDP
+2D: Roquan Smith : CHI: IDP
+3D: Devin White : TB: IDP
+4D: Jordyn Brooks : SEA: IDP
+5D: Micah Parsons : DAL: IDP
+6D: Aaron Donald : LAR: IDP
+7D: Derwin James Jr : LAC: IDP
+8D: Jeremy Chinn : CAR: IDP
+9D: De'Vondre Campbell : GB: IDP
+10D: Bobby Wagner : LAR: IDP
+11D: Fred Warner : SF: IDP
+12D: Myles Garrett : CLE: IDP
+13D: Jordan Poyer : BUF: IDP
+14D: C.J. Mosley : NYJ: IDP
+15D: Blake Martinez : NYG: IDP
+16D: Jamal Adams : SEA: IDP
+17D: Chase Young : WAS: IDP
+18D: Antoine Winfield Jr. : TB : IDP
+19D: Denzel Perryman : LV: IDP
+20D: Nick Bosa : SF: IDP
+21D: T.J. Watt : PIT: IDP
+22D: Budda Baker : ARI: IDP
+23D: Kevin Byard : TEN: IDP
+24D: Foyesade Oluokun : JAC: IDP
+25D: Harrison Smith: MIN: IDP
+26D: Kyle Dugger : NE: IDP
+27D: Logan Wilson : CIN: IDP
+28D: Bobby Okereke : IND: IDP
+29D: Minkah Fitzpatrick : PIT: IDP
+30D: Tremaine Edmunds : BUF: IDP
+
+
+
+
