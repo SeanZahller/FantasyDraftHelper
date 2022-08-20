@@ -80,8 +80,6 @@ public class FantasyDraftHelper extends Application {
         rankCol.setPrefWidth(120.0);
         rankCol.setStyle( "-fx-alignment: CENTER;");
 
-
-
         TableColumn nameCol = new TableColumn("Name");
         nameCol.setCellValueFactory(new PropertyValueFactory("name"));
         nameCol.setCellFactory(TextFieldTableCell.forTableColumn());
@@ -95,7 +93,6 @@ public class FantasyDraftHelper extends Application {
         });
         nameCol.setPrefWidth(330.0);
         nameCol.setStyle( "-fx-alignment: CENTER;");
-
 
         TableColumn posCol = new TableColumn("Position");
         posCol.setCellValueFactory(new PropertyValueFactory("position"));
@@ -125,7 +122,6 @@ public class FantasyDraftHelper extends Application {
         teamCol.setPrefWidth(150.0);
         teamCol.setStyle( "-fx-alignment: CENTER;");
 
-
         table.getColumns().setAll(rankCol, nameCol, posCol, teamCol);
         table.setLayoutX(164.0);
         table.setLayoutY(-1.0);
@@ -133,12 +129,9 @@ public class FantasyDraftHelper extends Application {
         table.setPrefWidth(750);//609.0
         table.setColumnResizePolicy(TableView.UNCONSTRAINED_RESIZE_POLICY);
 
-
         TitledPane background = new TitledPane();
         background.setPrefHeight(595.0);
         background.setPrefWidth(777.0);
-
-
 
         Button startTimer = new Button("Start Timer");
         startTimer.setLayoutX(45.0);
@@ -152,7 +145,8 @@ public class FantasyDraftHelper extends Application {
         draftPlayer.setScaleX(2.0);
         draftPlayer.setScaleY(2.0);
 
-        draftPlayer.setOnAction(actionEvent -> {
+        draftPlayer.setOnAction(actionEvent ->
+        {
             if(countUp < contestants.length - 1)
             {
                 teamPicking.setText(contestants[countUp]);
@@ -162,11 +156,13 @@ public class FantasyDraftHelper extends Application {
 
             else if(countUp == contestants.length - 1) // gets to last player
             {
-                if(countDown == contestants.length - 1){
+                if(countDown == contestants.length - 1)
+                {
                     nextTeamPicking.setText(contestants[countDown]);
                     teamPicking.setText(contestants[countDown]);
                 }
-                else if(countDown > 0) {
+                else if(countDown >= 0)
+                {
                     teamPicking.setText(contestants[countDown + 1]);
                     nextTeamPicking.setText(contestants[countDown]);
                 }
@@ -177,25 +173,30 @@ public class FantasyDraftHelper extends Application {
                 countDown = countDown - 1;
             }
 
-            if(countDown < 0){
-                teamPicking.setText(contestants[countDown + 1]);
-                nextTeamPicking.setText(contestants[countDown + 1]);
-                countUp = 0;
-                countDown = contestants.length - 1;
+            if(countDown < 0)
+            {
+                if(countDown == -1)
+                {
+                    teamPicking.setText(contestants[countDown + 2]);
+                    nextTeamPicking.setText(contestants[countDown + 1]);
+                }
+                else if(countDown == -2)
+                {
+                    teamPicking.setText(contestants[countDown + 2]);
+                    nextTeamPicking.setText(contestants[countDown + 2]);
+                    countDown = contestants.length - 1;
+                    countUp = 0;
+                }
             }
-            if(pressed > 0) {
+            if(pressed > 0)
+            {
                 removeFromTable();
             }
             pressed = pressed + 1;
-
-
         });
 
-
-
-
-        startTimer.setOnAction(new EventHandler() {
-
+        startTimer.setOnAction(new EventHandler()
+        {
             @Override
             public void handle(Event event) {
                 if (timeline != null) {
@@ -209,8 +210,6 @@ public class FantasyDraftHelper extends Application {
                 timeline.playFromStart();
             }
         });
-
-
 
         Separator sep = new Separator();
         sep.setLayoutX(151.0);
@@ -275,8 +274,8 @@ public class FantasyDraftHelper extends Application {
 
 
 
-    private ObservableList getTopPlayers() throws IOException {
-
+    private ObservableList getTopPlayers() throws IOException
+    {
         Collection<Player> list = Files.readAllLines(new File("c:/users/seanz/workspace/DraftHelper/test.txt").toPath())
                 .stream()
                 .map(line -> {
@@ -290,19 +289,19 @@ public class FantasyDraftHelper extends Application {
         return details;
     }
 
-    private void removeFromTable(){
+    private void removeFromTable()
+    {
         int ix = table.getSelectionModel().getSelectedIndex();
-        Player uno = (Player) table.getSelectionModel().getSelectedItem();
         data.remove(ix);
 
-        if (table.getItems().size() == 0) {
-
+        if (table.getItems().size() == 0)
+        {
             actionStatus.setText("No data in table !");
             return;
         }
 
-        if (ix != 0) {
-
+        if (ix != 0)
+        {
             ix = ix -1;
         }
 
@@ -310,6 +309,4 @@ public class FantasyDraftHelper extends Application {
         table.getSelectionModel().select(ix);
         table.getFocusModel().focus(ix);
     }
-
-
 }
